@@ -1,3 +1,5 @@
+package stepik65;
+
 public class Messenger {
 
     TemplateEngine templateEngine;
